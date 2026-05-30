@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">LocalizationAndFormsLab</string>
+    <string name="list_title">Мой список</string>
+    <string name="registration_title">Регистрация</string>
+    <string name="fio_hint">ФИО</string>
+    <string name="login_hint">Логин</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_hint">Номер телефона</string>
+    <string name="password_hint">Пароль</string>
+    <string name="confirm_password_hint">Подтвердите пароль</string>
+    <string name="birth_date_hint">Дата рождения</string>
+    <string name="select_group">Выберите группу</string>
+    <string name="consent">Согласие на обработку персональных данных</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="select_date">Выбрать дату</string>
+
+    <string-array name="groupmates_array">
+        <item>Анагурбанов Байрам</item>
+        <item>Арустамов Артур</item>
+        <item>Атаян ливон</item>
+        <item>Айбазов Умар</item>
+        <item>Баркетов Родион</item>
+        <item>Болонина Валерия</item>
+        <item>Братов Амир</item>
+        <item>Волуйский Даниил</item>
+        <item>Жигуров Руслан</item>
+        <item>Золотов Владислав</item>
+        <item>Измайлов Руслан</item>
+        <item>Ковалёв Дмитрий</item>
+        <item>Скирневский Денис</item>
+        <item>Тристан Владислава</item>
+        <item>Ткачёв Сергей</item>
+        <item>Ткаченко денис</item>
+        <item>Нашев Айдемир</item>
+        <item>Майстренко Константин</item>
+        <item>Макаров Мирон</item>
+        <item>Мусаев Владислав</item>
+        <item>Фёдоров Артём</item>
+        <item>Хубиев Шатбек</item>
+    </string-array>
+</resources>

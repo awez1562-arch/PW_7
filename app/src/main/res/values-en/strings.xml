@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizationAndFormsLab</string>
+    <string name="list_title">My List</string>
+    <string name="registration_title">Registration</string>
+    <string name="fio_hint">Full Name</string>
+    <string name="login_hint">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="birth_date_hint">Date of Birth</string>
+    <string name="select_group">Select Group</string>
+    <string name="consent">Consent to personal data processing</string>
+    <string name="register">Register</string>
+    <string name="select_date">Select Date</string>
+
+    <string-array name="groupmates_array">
+        <item>Anagurbanov Bayram</item>
+        <item>Artur Arustamov</item>
+        <item>Atayan Livon</item>
+        <item>Umar Aybazov</item>
+        <item>Rodion Barketov</item>
+        <item>Valeria Bolonina</item>
+        <item>Bratov Amir</item>
+        <item>Daniil Voluysky</item>
+        <item>Ruslan Zhigurov</item>
+        <item>Vladislav Zolotov</item>
+        <item>Ruslan Izmailov</item>
+        <item>Dmitry Kovalev</item>
+        <item>Denis Skirnevsky</item>
+        <item>Tristan Vladislava</item>
+        <item>Sergey Tkachev</item>
+        <item>Denis Tkachenko</item>
+        <item>Aydemir Nashev</item>
+        <item>Konstantin Maistrenko</item>
+        <item>Makarov Miron</item>
+        <item>Vladislav Musaev</item>
+        <item>Artem Fedorov</item>
+        <item>Khubiev Shatbek</item>
+    </string-array>
+</resources>
